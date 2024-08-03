@@ -1,2 +1,2 @@
 # streams
-IPTV Live Streams
+Live Streams from official sites
