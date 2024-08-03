@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://0f856ec4412b11edb8780242ac120002:383a41b28166b05046143a3cffe3570b@qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
