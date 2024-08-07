@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:9152
+#EXT-X-TARGETDURATION:12
+#EXTINF:10.077,
+http://45.32.115.103/live/livestream/9152.ts
+#EXTINF:10.544,
+http://45.32.115.103/live/livestream/9153.ts
+#EXTINF:11.745,
+http://45.32.115.103/live/livestream/9154.ts
