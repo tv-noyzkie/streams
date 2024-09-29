@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=1280×720,BANDWIDTH=2179072
+https://qn-10135-spc-qb-1-1.dailymotion-live-mr.qwilted-cds.cqloud.com/sec(vb0ikD3rmZA2RvEN2UsfwNaqMetknZbXJnjGiKRkgcX6GZ0-kVahrHJkkX05P5R8)/dm/3/x5cr6b9/d/live-3.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=848×480,BANDWIDTH=1359872
+https://qn-10135-spc-qb-1-1.dailymotion-live-mr.qwilted-cds.cqloud.com/sec(vb0ikD3rmZA2RvEN2UsfwNaqMetknZbXJnjGiKRkgcX6GZ0-kVahrHJkkX05P5R8)/dm/3/x5cr6b9/d/live-2.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=512×360,BANDWIDTH=782336
+https://qn-10135-spc-qb-1-1.dailymotion-live-mr.qwilted-cds.cqloud.com/sec(vb0ikD3rmZA2RvEN2UsfwNaqMetknZbXJnjGiKRkgcX6GZ0-kVahrHJkkX05P5R8)/dm/3/x5cr6b9/d/live-1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=320×180,BANDWIDTH=475136
+https://qn-10135-spc-qb-1-1.dailymotion-live-mr.qwilted-cds.cqloud.com/sec(vb0ikD3rmZA2RvEN2UsfwNaqMetknZbXJnjGiKRkgcX6GZ0-kVahrHJkkX05P5R8)/dm/3/x5cr6b9/d/live-0.m3u8
