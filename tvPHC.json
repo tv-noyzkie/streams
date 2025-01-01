@@ -1,0 +1,1027 @@
+{
+  "provider": {
+    "epg": "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz"
+  },
+  "categories": {
+    "main": {
+    "name": "tvPHC",
+    "icon": ""
+    }
+  },
+  "channels": [
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "",
+    "epg_name": "TFC Guam",
+    "icon": "https://i.imgur.com/GTTVdA4.png",
+    "name": "TFC Guam",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=tfc-guam"
+  },
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "A2Z.ph",
+    "epg_name": "A2Z",
+    "icon": "https://i.imgur.com/xdQ8j5O.png",
+    "name": "A2Z",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=a2z"
+  },  
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "",
+    "epg_name": "Kapamilya Online",
+    "icon": "https://i.imgur.com/wZpsMuw.png",
+    "name": "Kapamilya Online",
+    "type": "hls",
+    "url": "https://ythls.armelin.one/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8"
+  }, 
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "PTV.ph",
+    "epg_name": "PTV",
+    "icon": "https://i.imgur.com/yNx5dKF.png",
+    "name": "PTV",
+    "type": "hls",
+    "url": "https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8"
+  },  
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "TV5.ph",
+    "epg_name": "TV5",
+    "icon": "https://i.imgur.com/Ufp278A.png",
+    "name": "5",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=5"
+  }, 
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "ONE.SPORTS.ph",
+    "epg_name": "ONE SPORTS",
+    "icon": "https://i.imgur.com/1EfW3kA.png",
+    "name": "One Sports",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=onesports"
+  },      
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "GMA.ph",
+    "epg_name": "GMA",
+    "icon": "https://i.imgur.com/AHZ3SRs.png",
+    "name": "GMA",
+    "type": "hls",
+    "codec": "soft_vlc",
+    "url": "https://game-trips.serv00.net/premium.php?id=gma"
+  },
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "",
+    "epg_name": "GMA Kapuso Stream",
+    "icon": "https://i.imgur.com/p9NsRp3.png",
+    "name": "GMA Kapuso Stream",
+    "type": "hls",
+    "url": "https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8"
+  },  
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "GTV.ph",
+    "epg_name": "GTV",
+    "icon": "https://i.imgur.com/N3UKeHW.png",
+    "name": "GTV",
+    "type": "hls",
+    "codec": "soft_vlc",
+    "url": "https://game-trips.serv00.net/premium.php?id=gtv"
+  },
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "",
+    "epg_name": "AllTV",
+    "icon": "https://i.imgur.com/PylWga7.png",
+    "name": "AllTV",
+    "type": "hls",
+    "codec": "soft_vlc",
+    "url": "https://game-trips.serv00.net/premium.php?id=alltv"
+  },
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "Net.25.ph",
+    "epg_name": "Net 25",
+    "icon": "https://i.imgur.com/WQdESwT.png",
+    "name": "Net 25",
+    "type": "hls",
+    "url": "https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8"
+  },  
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "",
+    "epg_name": "RJ DigiTV",
+    "icon": "https://i.imgur.com/FxOP3jh.png",
+    "name": "RJ DigiTV",
+    "type": "hls",
+    "codec": "soft_vlc",
+    "url": "https://game-trips.serv00.net/premium.php?id=rjtv"
+  },
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "",
+    "epg_name": "UNTV News & Rescue",
+    "icon": "https://i.imgur.com/ecDQc4Z.png",
+    "name": "UNTV News & Rescue",
+    "type": "hls",
+    "url": "https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8"
+  },
+  {
+    "category": "Movies | Series ᴾᴴ",
+    "epg_id": "",
+    "epg_name": "C1 Global",
+    "icon": "https://i.imgur.com/oFcoiOh.png",
+    "name": "Cinema One Global",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=c1-global"
+  },   
+  {
+    "category": "Movies | Series ᴾᴴ",
+    "epg_id": "",
+    "epg_name": "Cine Mo!",
+    "icon": "https://i.imgur.com/NUR06DT.png",
+    "name": "Cine Mo!",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=cinemo"
+  },  
+  {
+    "category": "Movies | Series ᴾᴴ",
+    "epg_id": "JEEPNEY.TV.ph",
+    "epg_name": "JEEPNEY TV",
+    "icon": "https://i.imgur.com/pXwxWgH.png",
+    "name": "Jeepney TV",
+    "type": "hls",
+    "codec": "soft_vlc",
+    "url": "https://game-trips.serv00.net/premium.php?id=jeepneytv"
+  },
+  {
+    "category": "Movies | Series",
+    "epg_id": "",
+    "epg_name": "Action Hollywood Movies",
+    "icon": "https://i.imgur.com/QYe5cou.png",
+    "name": "Action Hollywood Movies",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=holly-act-mov"
+  },     
+  {
+    "category": "Movies | Series",
+    "epg_id": "",
+    "epg_name": "DMAX D+",
+    "icon": "https://i.imgur.com/GggL3J7.png",
+    "name": "DMAX",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=dmax"
+  },
+  {
+    "category": "Movies | Series",
+    "epg_id": "",
+    "epg_name": "Free Movies",
+    "icon": "https://i.imgur.com/42t72Ke.png",
+    "name": "Free Movies",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=free-movie"
+  },
+  {
+    "category": "Movies | Series",
+    "epg_id": "Cg.Hbohd.ph",
+    "epg_name": "Cg Hbohd",
+    "icon": "https://i.imgur.com/OuLp7iR.png",
+    "name": "HBO Asia",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=hbo"
+  },      
+  {
+    "category": "Movies | Series",
+    "epg_id": "",
+    "epg_name": "Investigation Discovery D+",
+    "icon": "https://i.imgur.com/hTTQP22.png",
+    "name": "Investigation Discovery",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=id"
+  },  
+  {
+    "category": "Movies | Series",
+    "epg_id": "",
+    "epg_name": "Laff",
+    "icon": "https://i.imgur.com/MhtegUS.png",
+    "name": "Laff",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=laff"
+  },  
+  {
+    "category": "Movies | Series",
+    "epg_id": "",
+    "epg_name": "Laff More!",
+    "icon": "https://i.imgur.com/3BN6q1F.png",
+    "name": "Laff More!",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=laff-more"
+  }, 
+  {
+    "category": "Movies | Series",
+    "epg_id": "Lotusmacau.Prd.ph",
+    "epg_name": "Lotusmacau Prd",
+    "icon": "https://i.imgur.com/89m5kcz.png",
+    "name": "Lotus Macau",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=lotus-macau"
+  },
+  {
+    "category": "Movies | Series",
+    "epg_id": "",
+    "epg_name": "Moviesphere",
+    "icon": "https://i.imgur.com/cAtEEy0.png",
+    "name": "Moviesphere AU",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=moviesphereau"
+  },
+  {
+    "category": "Movies | Series",
+    "epg_id": "",
+    "epg_name": "Moviesphere",
+    "icon": "https://i.imgur.com/cAtEEy0.png",
+    "name": "Moviesphere NZ",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=moviespherenz"
+  }, 
+  {
+    "category": "Movies | Series",
+    "epg_id": "",
+    "epg_name": "Pixl",
+    "icon": "https://i.imgur.com/eQdmTsc.png",
+    "name": "Pixl",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=pixl"
+  },     
+  {
+    "category": "Movies | Series",
+    "epg_id": "Warnertv.Hd.ph",
+    "epg_name": "Warnertv Hd",
+    "icon": "https://i.imgur.com/121TGhe.png",
+    "name": "Warner TV",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=warner"
+  },
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "",
+    "epg_name": "Baby First",
+    "icon": "https://i.imgur.com/AjC9OAU.png",
+    "name": "Baby First",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=baby-first"
+  },             
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "5228",
+    "epg_name": "Cartoonito (HD)",
+    "icon": "https://i.imgur.com/TgM9Ch0.png",
+    "name": "Cartoonito",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=cartoonito"
+  },  
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "Cartoon.Net.Hd.ph",
+    "epg_name": "Cartoon Net Hd",
+    "icon": "https://i.imgur.com/lOvQXQb.png",
+    "name": "Cartoon Network",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=cartoon-net"
+  },    
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "CBeebies",
+    "epg_name": "CBeebies",
+    "icon": "https://i.imgur.com/ZkTkk4T.png",
+    "name": "CBeebies",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=cbeebies"
+  }, 
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "",
+    "epg_name": "Kartoon Channel",
+    "icon": "https://i.imgur.com/R9uP0TA.png",
+    "name": "Kartoon Channel",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=kartoon"
+  },  
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "",
+    "epg_name": "Jelly Jamm World",
+    "icon": "https://i.imgur.com/LZcpgm0.png",
+    "name": "Jelly Jamm World",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=jjw"
+  },             
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "Moonbug.Kids.ph",
+    "epg_name": "Moonbug Kids",
+    "icon": "https://i.imgur.com/6pgcE48.png",
+    "name": "Moonbug Kids",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=moonbug"
+  },  
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "",
+    "epg_name": "Nicktoons",
+    "icon": "https://i.imgur.com/oiPvVuk.png",
+    "name": "Nicktoons",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=nicktoons"
+  },        
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "",
+    "epg_name": "PBS Kids",
+    "icon": "https://i.imgur.com/vNfh4V5.png",
+    "name": "PBS Kids",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=pbskids"
+  }, 
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "",
+    "epg_name": "Ryan & Friends",
+    "icon": "https://i.imgur.com/VUR0xuM.png",
+    "name": "Ryan & Friends",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=ryan-friends"
+  },  
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "",
+    "epg_name": "ZooMoo",
+    "icon": "https://i.imgur.com/wVeCJFZ.png",
+    "name": "ZooMoo",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=zoomoo"
+  }, 
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "",
+    "epg_name": "ANIME x HIDIVE",
+    "icon": "https://i.imgur.com/Xmehbjc.png",
+    "name": "ANIME x HIDIVE",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=axhidive"
+  },
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "",
+    "epg_name": "Crunchyroll",
+    "icon": "https://i.imgur.com/ew0JyEl.png",
+    "name": "Crunchyroll",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=crunchyroll"
+  },
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "",
+    "epg_name": "Retro Crush",
+    "icon": "https://i.imgur.com/nOgFh15.png",
+    "name": "Retro Crush",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=retro-crush"
+  },
+  {
+    "category": "Cartoon | Animation",
+    "epg_id": "",
+    "epg_name": "Super Anime",
+    "icon": "https://i.imgur.com/v96u4tF.png",
+    "name": "Super Anime",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=super-anime"
+  },              
+  {
+    "category": "Sports | Recreation",
+    "epg_id": "Cgnl.Nba.ph",
+    "epg_name": "Cgnl Nba",
+    "icon": "https://i.imgur.com/tuy3jQX.png",
+    "name": "NBA TV Philippines",
+    "type": "hls",
+    "codec": "soft_vlc",
+    "url": "https://game-trips.serv00.net/premium.php?id=nbatvph"
+  },
+  {
+    "category": "Sports | Recreation",
+    "epg_id": "",
+    "epg_name": "NBA TV International",
+    "icon": "https://i.imgur.com/MQ0hVOF.png",
+    "name": "NBA TV International",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=indi.nbatv"
+  },
+  {
+    "category": "Sports | Recreation",
+    "epg_id": "",
+    "epg_name": "Red Bull TV",
+    "icon": "https://i.imgur.com/5ZY4KzC.png",
+    "name": "Red Bull TV",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=red-bull"
+  },
+  {
+    "category": "Sports | Recreation",
+    "epg_id": "Spotv.Hd.ph",
+    "epg_name": "Spotv Hd",
+    "icon": "https://i.imgur.com/odMlNlu.png",
+    "name": "SPOTV 1",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=indi.spotv"
+  },                 
+  {
+    "category": "Sports | Recreation",
+    "epg_id": "Spotv.Hd2.ph",
+    "epg_name": "Spotv Hd2",
+    "icon": "https://i.imgur.com/3YcLY3j.png",
+    "name": "SPOTV 2",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=indi.spotv2"
+  }, 
+  {
+    "category": "Sports | Recreation",
+    "epg_id": "",
+    "epg_name": "Top Rank Classics",
+    "icon": "https://i.imgur.com/K834v3L.png",
+    "name": "Top Rank Classics",
+    "type": "hls",
+    "url": "https://live-manifest.production-public.tubi.io/live/1361a6cb-3174-4334-8084-5df4fd832752/playlist.m3u8"
+  },    
+  {
+    "category": "Sports | Recreation",
+    "epg_id": "",
+    "epg_name": "Trace Sport Stars",
+    "icon": "https://i.imgur.com/Jazhcyh.png",
+    "name": "Trace Sport Stars",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=trace-sport"
+  },
+  {
+    "category": "Music | Arts",
+    "epg_id": "",
+    "epg_name": "iHeart 80's",
+    "icon": "https://i.imgur.com/O1CZfog.png",
+    "name": "iHeart 80's",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=iheart-80s"
+  },                 
+  {
+    "category": "Music | Arts",
+    "epg_id": "",
+    "epg_name": "iHeart 90's",
+    "icon": "https://i.imgur.com/ZhdJKf8.png",
+    "name": "iHeart 90's",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=iheart-90s"
+  },
+  {
+    "category": "Music | Arts",
+    "epg_id": "",
+    "epg_name": "iHeart Alt Radio",
+    "icon": "https://i.imgur.com/TvUZqQG.png",
+    "name": "iHeart Alt Radio",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=iheart-altradio"
+  },  
+  {
+    "category": "Music | Arts",
+    "epg_id": "",
+    "epg_name": "iHeart Hip Hop Beats",
+    "icon": "https://i.imgur.com/1E3EJbT.png",
+    "name": "iHeart Hip Hop Beats",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=iheart-beats"
+  },  
+  {
+    "category": "Music | Arts",
+    "epg_id": "",
+    "epg_name": "iHeart Hit Nation",
+    "icon": "https://i.imgur.com/7Ortmcs.png",
+    "name": "iHeart Hit Nation",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=iheart-hitnation"
+  },
+  {
+    "category": "Music | Arts",
+    "epg_id": "",
+    "epg_name": "NOW 70s",
+    "icon": "https://i.imgur.com/7p2JBIQ.png",
+    "name": "NOW 70s",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=now-70s"
+  }, 
+  {
+    "category": "Music | Arts",
+    "epg_id": "",
+    "epg_name": "NOW 80s",
+    "icon": "https://i.imgur.com/z8BrVmR.png",
+    "name": "NOW 80s",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=now-80s"
+  },  
+  {
+    "category": "Music | Arts",
+    "epg_id": "",
+    "epg_name": "NOW Rock",
+    "icon": "https://i.imgur.com/iF1Ap8I.png",
+    "name": "NOW Rock",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=now-rock"
+  },               
+  {
+    "category": "Music | Arts",
+    "epg_id": "",
+    "epg_name": "MYX International",
+    "icon": "https://i.imgur.com/xKmVJEP.png",
+    "name": "MYX International",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=myx-intl"
+  },
+  {
+    "category": "Music | Arts",
+    "epg_id": "",
+    "epg_name": "Trace UK",
+    "icon": "https://i.imgur.com/6GODuU2.png",
+    "name": "Trace UK",
+    "type": "hls",
+    "url": "https://d2u040elo6umri.cloudfront.net/trace_urban_gb.m3u8"
+  },  
+  {
+    "category": "Music | Arts",
+    "epg_id": "",
+    "epg_name": "Trace Urban",
+    "icon": "https://i.imgur.com/lrRzPlS.png",
+    "name": "Trace Urban",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=trace-urban"
+  },
+  {
+    "category": "Science | Gen Info",
+    "epg_id": "",
+    "epg_name": "Animal Planet D+",
+    "icon": "https://i.imgur.com/4gMRGaJ.png",
+    "name": "Animal Planet",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=ani-planet"
+  },  
+  {
+    "category": "Science | Gen Info",
+    "epg_id": "",
+    "epg_name": "Discovery HD D+",
+    "icon": "https://i.imgur.com/4wJQiPn.png",
+    "name": "Discovery",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=disc-hd"
+  },  
+  {
+    "category": "Science | Gen Info",
+    "epg_id": "DISCOVERY.ASIA.ph",
+    "epg_name": "DISCOVERY ASIA",
+    "icon": "https://i.imgur.com/7iQRUtc.png",
+    "name": "Discovery Asia",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=disc-asia"
+  }, 
+  {
+    "category": "Science | Gen Info",
+    "epg_id": "",
+    "epg_name": "Discovery Science D+",
+    "icon": "https://i.imgur.com/u6EPQnC.png",
+    "name": "Discovery Science",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=disc-sci"
+  },  
+  {
+    "category": "Science | Gen Info",
+    "epg_id": "",
+    "epg_name": "Discovery Turbo D+",
+    "icon": "https://i.imgur.com/brAEQJx.png",
+    "name": "Discovery Turbo",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=disc-turbo"
+  },
+  {
+    "category": "Science | Gen Info",
+    "epg_id": "",
+    "epg_name": "Love Nature 4K",
+    "icon": "https://i.imgur.com/abaa17P.png",
+    "name": "Love Nature 4K",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=love-nat4k"
+  },
+  {
+    "category": "Home | Lifestyle",
+    "epg_id": "Fashiontv.Hd.ph",
+    "epg_name": "Fashiontv Hd",
+    "icon": "https://i.imgur.com/wzjqyZE.png",
+    "name": "Fashion TV",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=ftv"
+  }, 
+  {
+    "category": "Home | Lifestyle",
+    "epg_id": "",
+    "epg_name": "FTV Midnight",
+    "icon": "https://i.imgur.com/ex2l7pB.png",
+    "name": "FTV Midnight",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=ftv-midnight"
+  },  
+  {
+    "category": "Home | Lifestyle",
+    "epg_id": "Foodnetwork.Hd.ph",
+    "epg_name": "Foodnetwork Hd",
+    "icon": "https://i.imgur.com/phPnVkT.png",
+    "name": "Food Network",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=food-net"
+  },  
+  {
+    "category": "Home | Lifestyle",
+    "epg_id": "Hgtv.Hd.ph",
+    "epg_name": "Hgtv Hd",
+    "icon": "https://i.imgur.com/jKA6Ofo.png",
+    "name": "HGTV",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=hgtv"
+  },
+  {
+    "category": "Home | Lifestyle",
+    "epg_id": "",
+    "epg_name": "HGTV",
+    "icon": "https://i.imgur.com/jKA6Ofo.png",
+    "name": "HGTV NZ",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=hgtvnz"
+  },                    
+  {
+    "category": "News | Public Affairs ᴾᴴ",
+    "epg_id": "ANC.ph",
+    "epg_name": "ANC",
+    "icon": "https://i.imgur.com/AgL8GpS.png",
+    "name": "ANC",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=anc"
+  },   
+  {
+    "category": "News | Public Affairs ᴾᴴ",
+    "epg_id": "DZMM.TELERADYO.ph",
+    "epg_name": "DZMM TELERADYO",
+    "icon": "https://i.imgur.com/7fDaeTF.png",
+    "name": "Teleradyo Serbisyo",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=teleradyo"
+  },
+  {
+    "category": "News | Public Affairs ᴾᴴ",
+    "epg_id": "DZMM.TELERADYO.ph",
+    "epg_name": "DZMM TELERADYO",
+    "icon": "https://i.imgur.com/7fDaeTF.png",
+    "name": "Teleradyo Serbisyo (YT Live Stream)",
+    "type": "hls",
+    "url": "https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8"
+  },  
+  {
+    "category": "News | Public Affairs ᴾᴴ",
+    "epg_id": "",
+    "epg_name": "DZRH News TV",
+    "icon": "https://i.imgur.com/jOuIEE7.png",
+    "name": "DZRH News TV",
+    "type": "hls",
+    "url": "https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8"
+  },
+  {
+    "category": "News | Public Affairs ᴾᴴ",
+    "epg_id": "",
+    "epg_name": "Radyo Bandido TV",
+    "icon": "https://i.imgur.com/HMhnpLB.png",
+    "name": "Radyo Bandido TV",
+    "type": "hls",
+    "url": "https://ythls.armelin.one/channel/UC1f5yN0Hdibzm3JqqUswKvA.m3u8"
+  },      
+  {
+    "category": "News | Public Affairs ᴾᴴ",
+    "epg_id": "",
+    "epg_name": "Radyo Veritas",
+    "icon": "https://i.imgur.com/0GwAZKF.png",
+    "name": "Radyo Veritas",
+    "type": "hls",
+    "url": "https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8"
+  },  
+  {
+    "category": "Religion | Faith",
+    "epg_id": "",
+    "epg_name": "Ang Dating Daan",
+    "icon": "https://i.imgur.com/8PSlLdD.png",
+    "name": "Ang Dating Daan",
+    "type": "hls",
+    "url": "https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8"
+  },
+  {
+    "category": "Religion | Faith",
+    "epg_id": "",
+    "epg_name": "CCTN 47",
+    "icon": "https://i.imgur.com/VpX6sJO.png",
+    "name": "CCTN 47",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=cctn"
+  },  
+  {
+    "category": "Religion | Faith",
+    "epg_id": "",
+    "epg_name": "EWTN",
+    "icon": "https://i.imgur.com/JQPOTp1.png",
+    "name": "EWTN",
+    "type": "hls",
+    "url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8"
+  },
+  {
+    "category": "Religion | Faith",
+    "epg_id": "",
+    "epg_name": "GCTV",
+    "icon": "https://i.imgur.com/sMo4ZNZ.png",
+    "name": "GCTV",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=gctv"
+  },      
+  {
+    "category": "Religion | Faith",
+    "epg_id": "",
+    "epg_name": "Truth Channel",
+    "icon": "https://i.imgur.com/aCVCbzM.png",
+    "name": "Truth Channel",
+    "type": "hls",
+    "url": "https://ythls.armelin.one/channel/UCa3hzYljDByZxkjIMah_2nw.m3u8"
+  },   
+  {
+    "category": "Religion | Faith",
+    "epg_id": "Tvmaria.Prd.ph",
+    "epg_name": "Tvmaria Pr",
+    "icon": "https://i.imgur.com/v3OSVm9.png",
+    "name": "TV Maria",
+    "type": "hls",
+    "url": "https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8"
+  },
+  {
+    "category": "FAST Channels",
+    "epg_id": "",
+    "epg_name": "Asian Crush",
+    "icon": "https://i.imgur.com/TnqkVdR.png",
+    "name": "Asian Crush",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=asian-crush"
+  },  
+  {
+    "category": "FAST Channels",
+    "epg_id": "",
+    "epg_name": "CNN Fast",
+    "icon": "https://i.imgur.com/IAXU4PI.png",
+    "name": "CNN Fast",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=cnnfast"
+  },                           
+  {
+    "category": "FAST Channels",
+    "epg_id": "",
+    "epg_name": "The Graham Norton Show",
+    "icon": "https://i.imgur.com/xpTifQW.png",
+    "name": "The Graham Norton Show",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=tgns"
+  },   
+  {
+    "category": "FAST Channels",
+    "epg_id": "",
+    "epg_name": "WBtv Deadliest Catch",
+    "icon": "https://i.imgur.com/eYUtEwf.png",
+    "name": "WBtv Deadliest Catch",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=wbtv-deadliestcatch"
+  },
+  {
+    "category": "FAST Channels",
+    "epg_id": "",
+    "epg_name": "WBtv House Hunters",
+    "icon": "https://i.imgur.com/evQFwHz.png",
+    "name": "WBtv House Hunters",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=wbtv-househunters"
+  },     
+  {
+    "category": "FAST Channels",
+    "epg_id": "",
+    "epg_name": "WBtv Motorheads",
+    "icon": "https://i.imgur.com/HQ1C6w8.png",
+    "name": "WBtv Motorheads",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=wbtv-motorheads"
+  },
+  {
+    "category": "FAST Channels",
+    "epg_id": "",
+    "epg_name": "WBtv Paranormal",
+    "icon": "https://i.imgur.com/a8WSD60.png",
+    "name": "WBtv Paranormal",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=wbtv-paranormal"
+  },      
+  {
+    "category": "FAST Channels",
+    "epg_id": "",
+    "epg_name": "WBtv True Crime",
+    "icon": "https://i.imgur.com/orO7KvF.png",
+    "name": "WBtv True Crime",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=wbtv-truecrime"
+  }, 
+  {
+    "category": "FAST Channels",
+    "epg_id": "",
+    "epg_name": "WBtv West Family Sagas",
+    "icon": "https://i.imgur.com/wcw8jN1.png",
+    "name": "WBtv West Family Sagas",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=wbtv-westfamsaga"
+  },         
+  {
+    "category": "Audio Streams",
+    "epg_id": "",
+    "epg_name": "DZBB Super Radyo",
+    "icon": "https://i.imgur.com/syJ0jkr.png",
+    "name": "DZBB Super Radyo",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=dzbb-audio"
+  },
+  {
+    "category": "News | Public Affairs",
+    "epg_id": "",
+    "epg_name": "SEA Today",
+    "icon": "https://i.imgur.com/IgsML2Y.png",
+    "name": "SEA Today",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=seatoday"
+  }, 
+  {
+    "category": "News | Public Affairs",
+    "epg_id": "",
+    "epg_name": "Ticker News",
+    "icon": "https://i.imgur.com/1OZUdmK.png",
+    "name": "Ticker News",
+    "type": "hls",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsfetchau-fetchtvau/playlist.m3u8"
+  },   
+  {
+    "category": "News | Public Affairs",
+    "epg_id": "",
+    "epg_name": "TRT World",
+    "icon": "https://i.imgur.com/WZJmYW6.png",
+    "name": "TRT World",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=trt-world"
+  },   
+  {
+    "category": "News | Public Affairs",
+    "epg_id": "",
+    "epg_name": "USA Today",
+    "icon": "https://i.imgur.com/i5AVK1u.png",
+    "name": "USA Today",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=usa-today"
+  },             
+  {
+    "category": "News | Public Affairs",
+    "epg_id": "",
+    "epg_name": "WION",
+    "icon": "https://i.imgur.com/PW4bAEm.png",
+    "name": "WION",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id=wion"
+  },               
+  {
+    "category": "",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  },    
+  {
+    "category": "",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  },    
+  {
+    "category": "",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  },    
+  {
+    "category": "",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  },    
+  {
+    "category": "",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  },    
+  {
+    "category": "",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  },    
+  {
+    "category": "",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  },    
+  {
+    "category": "",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  },    
+  {
+    "category": "",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  },    
+  {
+    "category": "",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  },    
+  {
+    "category": "",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  },    
+  {
+    "category": "",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  },  
+  {
+    "category": "Free-to-Air ᴾᴴ",
+    "epg_id": "",
+    "epg_name": "",
+    "icon": "",
+    "name": "",
+    "type": "hls",
+    "url": "https://game-trips.serv00.net/premium.php?id="
+  }
+  ]
+}
