@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=235178,RESOLUTION=320x180,CODECS="avc1.4D400D,mp4a.40.2"
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=290231,RESOLUTION=416x234,CODECS="avc1.4D400D,mp4a.40.2"
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=510231,RESOLUTION=480x270,CODECS="avc1.4D4015,mp4a.40.2"
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_3.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=950231,RESOLUTION=640x360,CODECS="avc1.4D401E,mp4a.40.2"
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_4.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1390231,RESOLUTION=640x360,CODECS="avc1.4D401E,mp4a.40.2"
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
