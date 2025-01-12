@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=428000,CODECS="avc1.64000d,mp4a.40.29",RESOLUTION=384x216,NAME="216"
+https://iheart-iheartaltradio-1-us.roku.wurl.tv/be7aa4a72202cfe1cb17c78d2e5f3dc8.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=628000,CODECS="avc1.64001e,mp4a.40.29",RESOLUTION=640x360,NAME="360"
+https://iheart-iheartaltradio-1-us.roku.wurl.tv/4236d9abc552208584eca1c929dc19a5.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=928000,CODECS="avc1.64001f,mp4a.40.29",RESOLUTION=960x540,NAME="540"
+https://iheart-iheartaltradio-1-us.roku.wurl.tvbd3027429ab4789cc15b7517cb6eaf5e.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1428000,CODECS="avc1.64001f,mp4a.40.29",RESOLUTION=1280x720,NAME="720"
+https://iheart-iheartaltradio-1-us.roku.wurl.tv/b13c91bb2c78955c5eff53168f920255.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2128000,CODECS="avc1.640028,mp4a.40.29",RESOLUTION=1920x1080,NAME="1080"
+https://iheart-iheartaltradio-1-us.roku.wurl.tv/70913cb99920ef5edde591179cfc39b7.m3u8

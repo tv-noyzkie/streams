@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=428000,CODECS="avc1.64000d,mp4a.40.29",RESOLUTION=384x216,NAME="216"
+https://iheart-iheartthebeat-1-us.roku.wurl.tv/44f119fa111fa378cd3d87559d3ccde8.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=628000,CODECS="avc1.64001e,mp4a.40.29",RESOLUTION=640x360,NAME="360"
+https://iheart-iheartthebeat-1-us.roku.wurl.tv/cadf0f3aac95ea5fae35e6468037cda5.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=928000,CODECS="avc1.64001f,mp4a.40.29",RESOLUTION=960x540,NAME="540"
+https://iheart-iheartthebeat-1-us.roku.wurl.tv/d489a409c132c6c6b7619a5d72d94f12.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1428000,CODECS="avc1.64001f,mp4a.40.29",RESOLUTION=1280x720,NAME="720"
+https://iheart-iheartthebeat-1-us.roku.wurl.tv/d045aacd6e8777c2bdf37899cebb6272.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2128000,CODECS="avc1.640028,mp4a.40.29",RESOLUTION=1920x1080,NAME="1080"
+https://iheart-iheartthebeat-1-us.roku.wurl.tv/e372bb6dbd0a8db0a8722a1c207e9297.m3u8
